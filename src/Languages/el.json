@@ -1,0 +1,37 @@
+{
+    "App": {
+
+    },
+    "LanguageSelector": {
+        "main_title_trans": "βιογραφικο σημειωμα",
+        "dropdown_choose_language_trans": "Επιλέξτε Γλώσσα",
+        "dropdown_choose_language_el_trans": "Ελληνικά",
+        "dropdown_choose_language_en_trans": "Αγγλικά",
+        "dropdown_choose_language_ka_trans": "Γεωργιανά"
+    },
+    "PersonInfo": {
+        "main_title_trans": "γενικα στοιχεια",
+        "lname_trans": "Επώνυμο",
+        "fname_trans": "Όνομα",
+        "birthday_trans": "Ημ/νία Γέννησης",
+        "address_trans": "Διεύθυνση",
+        "mobile_trans": "Κινητό",
+        "email_trans": "Ηλ. ταχυδρομείο",
+        "git_trans": "Git",
+        "linkedin_trans": "Linkedin",
+        "ask_mobile_trans": "Ρωτήστε το κινητό",
+        "ask_address_trans": "Ρωτήστε την διεύθυνση",
+        "ask_email_trans": "Ρωτήστε το e-mail"
+    },
+    "TimelineView": {
+        "until_now_txt_trans": "σήμερα",
+        "education_trans": "εκπαιδευση και σπουδες",
+        "work_experience_trans": "εργασιακη εμπειρια και προυπηρεσια"
+    },
+    "ULView": {
+        "foreign_languages_trans": "ξενες γλωσσες",
+        "pc_knowledge_trans": "γνωσεις υ/η",
+        "other_knowledge_trans": "αλλες γνωσεις",
+        "other_cv_info_trans": "αλλα στοιχεια βιογραφικου"
+    }
+}

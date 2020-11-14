@@ -1,0 +1,37 @@
+{
+    "App": {
+
+    },
+    "LanguageSelector": {
+        "main_title_trans": "resume",
+        "dropdown_choose_language_trans": "Choose Language",
+        "dropdown_choose_language_el_trans": "Greek",
+        "dropdown_choose_language_en_trans": "English",
+        "dropdown_choose_language_ka_trans": "Georgian"
+    },
+    "PersonInfo": {
+        "main_title_trans": "general info",
+        "lname_trans": "Last Name",
+        "fname_trans": "First Name",
+        "birthday_trans": "Birthday",
+        "address_trans": "Address",
+        "mobile_trans": "Mobile",
+        "email_trans": "e-mail",
+        "git_trans": "Git",
+        "linkedin_trans": "Linkedin",
+        "ask_mobile_trans": "Ask for mobile",
+        "ask_address_trans": "Ask for address",
+        "ask_email_trans": "Ask for e-mail"
+    },
+    "TimelineView": {
+        "until_now_txt_trans": "today",
+        "education_trans": "education",
+        "work_experience_trans": "work experience"
+    },
+    "ULView": {
+        "foreign_languages_trans": "foreign languages",
+        "pc_knowledge_trans": "pc knowledge",
+        "other_knowledge_trans": "other knowledge",
+        "other_cv_info_trans": "other cv info"
+    }
+}
